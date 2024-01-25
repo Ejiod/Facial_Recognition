@@ -1,6 +1,6 @@
 # Facial Recognition 
 
-# verview
+# Overview
 
 This project implements a facial recognition system using DeepFace and OpenCV. It is capable of recognizing and differentiating between new and returning users, offering a robust solution for identity verification and user management.
 Requirements
