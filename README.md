@@ -38,4 +38,3 @@ Additional Notes
 
 # Getting Started
 
-To get started, install Python and the required libraries (DeepFace and OpenCV). Follow the installation instructions above for setting up the environment. Ensure that you have access to the images you plan to process.
